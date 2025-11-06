@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there, I'm Gohith!
 
-<!--
-**DasariGohith/DasariGohith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science Engineering**  
+💼 **Specialization:** DevOps  
+🌱 **Passionate about:** Cloud Computing | CI/CD | Automation | Linux | Containerization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a DevOps enthusiast who loves automating workflows, optimizing deployments, and exploring scalable infrastructure solutions.  
+Currently pursuing my **B.Tech in Computer Science**, I’m focusing on building a strong foundation in **DevOps tools and cloud technologies**.
+
+---
+
+## 🧠 What I’m Learning
+
+- ☁️ Cloud Platforms – AWS, Azure  
+- 🐳 Docker & Kubernetes  
+- ⚙️ Jenkins, GitHub Actions  
+- 💾 Linux Administration  
+- 🔧 Infrastructure as Code (Terraform, Ansible)  
+- 🧩 Scripting with Python & Bash  
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|-----------|-------|
+| **Version Control** | Git, GitHub |
+| **CI/CD** | Jenkins, GitHub Actions |
+| **Containers** | Docker |
+| **Cloud** | AWS |
+| **IAC & Config Management** | Terraform, Ansible |
+| **Monitoring** | Prometheus, Grafana |
+| **Languages** | Python, Java |
+| **OS** | Linux (Ubuntu, CentOS) |
+
+---
