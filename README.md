@@ -38,12 +38,6 @@ Currently pursuing my **B.Tech in Computer Science** at **Koneru Lakshmaiah Univ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Core Concepts  
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- Database Management Systems (DBMS)  
-- Problem Solving
-
 ---
 
 ## Projects
